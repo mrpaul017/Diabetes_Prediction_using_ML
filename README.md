@@ -2,7 +2,7 @@
 ![pexels-wdnet-1001897](https://github.com/mrpaul017/Diabetes_Prediction_using_ML/assets/145193843/d54a888c-0444-4a2b-95e7-4afc0e0bff05)
 
 I made a predictor for Diabetes using relevant diagnostic information. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
-Dataset link: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+- Dataset link: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
 ## Diagnostic measurements to predict the 'Outcome: Class variable (0 or 1)' are :
 - Pregnancies: Number of times pregnant
